@@ -1,18 +1,12 @@
-# Welcome to MkDocs
+# MkDocs - Two
 
-Look at my site!
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is submodule 2 included into mkdocs through the git submodule command.
 
-## Commands
+These components are integrated directly into MkDocs and filtered as additional pages but this component could also serve as a standalone site on it's own.
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+For demo purposes, this module contains two markdown pages:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Page | Description                 |
+| ---- | --------------------------- |
+| Home | Current page you're viewing |
+| Info | Description of component    |

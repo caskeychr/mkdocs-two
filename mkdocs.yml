@@ -1,0 +1,4 @@
+site_name: MKDocs Two
+nav:
+  - Home: index.md
+  - Info: info.md
